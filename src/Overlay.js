@@ -79,7 +79,7 @@ export function Overlay() {
             <span className="accent">PEGASUS</span>
           </h3>
           <h4>Running Shoes</h4>
-          <p className="price">₹5499</p>
+          <p className="price">₹5699</p>
           <p>
             Year after year Pegasus has proven itself on the feet of runners
             everywhere. Now our most trusted style returns with new innovations
